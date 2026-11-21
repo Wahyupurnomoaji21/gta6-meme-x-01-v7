@@ -1,8 +1,8 @@
 # GTA 6 Meme — GTA VI Invoice: 13 Years, Itemised (v7)
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun](https://img.shields.io/badge/make.fun-GTA6--meme--x--01-green)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun](https://img.shields.io/badge/make.fun-ajx-orange)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Rank](https://make.fun/badge/gta6-meme-x-01/Wahyupurnomoaji21/gta6-meme-x-01-v7/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Reward](https://make.fun/badge/gta6-meme-x-01/Wahyupurnomoaji21/gta6-meme-x-01-v7/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
 A photorealistic itemised store invoice for the longest pre-order in gaming:
 
